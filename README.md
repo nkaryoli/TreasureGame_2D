@@ -77,7 +77,7 @@ Cada personaje gestiona de forma independiente:
 
 ### Guardias
 <p align="center">
-  <img src="assets/guard_sprite.png" alt="spy sprite demo" width="300"/>
+  <img src="assets/guard_sprite.png" alt="spy sprite demo" width="220"/>
 </p>
 - Sprite sheet de **4 columnas (frames)** × **4 filas (direcciones)**
 - Direcciones:
