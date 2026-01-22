@@ -1,5 +1,9 @@
 # 💰 TreasureGame_2D: Tile-Based Stealth Game
 
+<p align="center">
+  <img src="assets/demo.gif" alt="Gameplay demo" width="600"/>
+</p>
+
 Un juego 2D de búsqueda del tesoro desarrollado en Java con Processing, donde el jugador debe explorar un laberinto, evitar a los guardias y encontrar el tesoro oculto.
 
 Este proyecto está orientado al aprendizaje de programación orientada a objetos, manejo de sprites animados, colisiones y lógica de juego en tiempo real.
@@ -55,6 +59,33 @@ Cada personaje gestiona de forma independiente:
 - Dirección
 - Colisiones
 - Animación independiente
+---
+
+
+## 🖼️ Sprites
+
+### Espía
+<p align="center">
+  <img src="assets/spy_sprite.png" alt="spy sprite demo" width="150"/>
+</p>
+- Sprite sheet de **3 columnas (frames)** × **4 filas (direcciones)**
+- Direcciones:
+  - Fila 0 → Abajo
+  - Fila 1 → Izquierda
+  - Fila 2 → Derecha
+  - Fila 3 → Arriba
+
+### Guardias
+<p align="center">
+  <img src="assets/guard_sprite.png" alt="spy sprite demo" width="300"/>
+</p>
+- Sprite sheet de **4 columnas (frames)** × **4 filas (direcciones)**
+- Direcciones:
+  - Fila 0 → Abajo
+  - Fila 1 → Derecha
+  - Fila 2 → Izquierda
+  - Fila 3 → Arriba
+
 ---
 ## 🛠️ Requisitos
 
